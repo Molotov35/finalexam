@@ -1,4 +1,3 @@
-///José Rodrigo Pérez Cojon 9959-21-4557
 
 
 char insertarUsuario(Usuario usuario) {

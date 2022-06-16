@@ -4,10 +4,6 @@
 
 #define MAX 80
 
-
-///José Rodrigo Pérez Cojon 9959-21-4557
-
-
 void menuRegistrarUsuario() {
     char linea[MAX];
 	Usuario usuario;

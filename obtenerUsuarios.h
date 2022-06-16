@@ -4,7 +4,6 @@
 #define MAX 80
 
 
-///José Rodrigo Pérez Cojon 9959-21-4557
 
 struct usuario {
      char nombre[MAX];

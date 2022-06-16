@@ -1,7 +1,5 @@
 
 
-///José Rodrigo Pérez Cojon 9959-21-4557
-
 char existeUsuario(char nombreUsuario[], Usuario* usuario) {
 	FILE *archivo;
 	char existe;

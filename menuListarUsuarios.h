@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "obtenerUsuarios.h"
-
-///José Rodrigo Pérez Cojon 9959-21-4557
 void menuListarUsuarios() {
 
 	int numeroUsuarios = 0;

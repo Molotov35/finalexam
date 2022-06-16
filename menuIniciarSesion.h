@@ -2,7 +2,6 @@
 #include "loguear.h"
 #include "menuSistema.h"
 
-///Edwin Adony Montejo Martínez 9491-21-3898
 #define MAX_INTENTOS 3
 
 void menuIniciarSesion() {
